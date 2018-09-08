@@ -1,1 +1,3 @@
-"# MapasScraping"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/OdolirJunior/MapasScraping.git git push -u origin master
+# MapasScraping
+
+Script para ler dados das estradas de SP através do site do DER do estado. 
